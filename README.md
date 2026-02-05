@@ -9,5 +9,5 @@ Try it now: [@manunul_bot](https://t.me/manunul_bot)
 
 #### 1. Clone repository
 ```bash
-git clone https://github.com/yourusername/manulbot.git
-cd manulbot
+git clone https://github.com/VoidWh1sper/ManulBOT.git
+cd ManulBOT
